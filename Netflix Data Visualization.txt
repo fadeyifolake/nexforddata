@@ -1,0 +1,63 @@
+ Netflix Data Visualization
+
+## Overview
+
+This project aims to analyze Netflix data for visual analytics using both R and Python. The provided dataset will be prepared, cleaned, explored, and visualized to gain insights into the most watched genres and the distribution of ratings.
+
+## Tasks
+
+# 1. Data Preparation
+
+- Unzip Dataset: Unzip the provided dataset and rename it to "Netflix_shows_movies."
+
+# 2. Data Cleaning
+
+- **Address Missing Values**: Handle any missing values in the dataset.
+
+# 3. Data Exploration
+
+- **Describe Data**: Generate data descriptions and perform statistical analysis to understand the dataset better.
+
+# 4. Data Visualization
+
+- **Most Watched Genres**: Create visualizations to represent the most watched genres.
+- **Ratings Distribution**: Generate visualizations to depict the distribution of ratings.
+
+# 5. R Integration
+
+- **Implement Visualization in R**: Integrate one of the charts or visualizations into R for further analysis.
+
+## Instructions
+
+1. Data Preparation:
+   - Unzip the provided dataset and rename it to "Netflix_shows_movies."
+
+2. Data Cleaning:
+   - Handle any missing values in the dataset.
+
+3. Data Exploration:
+   - Generate data descriptions and perform statistical analysis to understand the dataset better.
+
+4. Data Visualization:
+   - Utilize Python libraries such as Seaborn, Pyplot, and Matplotlib to create visualizations for the most watched genres and ratings distribution.
+
+5. R Integration:
+   - Integrate one of the visualizations generated in Python into R for further analysis.
+
+6. Submission:
+   - Save your work as a zipped file or push it to your GitHub repository.
+   - Include a README file with comprehensive instructions on accessing and interpreting your Python and R code.
+
+## Requirements
+
+- Python 3.x
+- Python libraries: pandas, seaborn, matplotlib
+- R
+
+
+
+
+# Author
+
+
+
